@@ -1,0 +1,14 @@
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\bin\Debug\net8.0\FirsrtCsharpCode.exe
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\bin\Debug\net8.0\FirsrtCsharpCode.deps.json
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\bin\Debug\net8.0\FirsrtCsharpCode.runtimeconfig.json
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\bin\Debug\net8.0\FirsrtCsharpCode.dll
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\bin\Debug\net8.0\FirsrtCsharpCode.pdb
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\obj\Debug\net8.0\FirsrtCsharpCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\obj\Debug\net8.0\FirsrtCsharpCode.AssemblyInfoInputs.cache
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\obj\Debug\net8.0\FirsrtCsharpCode.AssemblyInfo.cs
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\obj\Debug\net8.0\FirsrtCsharpCode.csproj.CoreCompileInputs.cache
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\obj\Debug\net8.0\FirsrtCsharpCode.dll
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\obj\Debug\net8.0\refint\FirsrtCsharpCode.dll
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\obj\Debug\net8.0\FirsrtCsharpCode.pdb
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\obj\Debug\net8.0\FirsrtCsharpCode.genruntimeconfig.cache
+C:\Users\Karim\Documents\Projects\FirsrtCsharpCode\obj\Debug\net8.0\ref\FirsrtCsharpCode.dll
