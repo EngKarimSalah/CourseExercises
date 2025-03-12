@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirsrtCsharpCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b39ba380273e9c6c02d7cd5ca8a420520d529d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirsrtCsharpCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirsrtCsharpCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

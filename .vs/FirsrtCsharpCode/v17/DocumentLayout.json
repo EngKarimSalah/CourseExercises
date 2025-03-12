@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Karim\\Documents\\Projects\\FirsrtCsharpCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{341E7B43-688F-49CC-A523-ACA6DB6B97BC}|..\\ExercisesPart2\\ExercisesPart2.csproj|c:\\users\\karim\\documents\\projects\\exercisespart2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13A1A599-8C4B-4021-8C56-B72A2723E006}|FirsrtCsharpCode.csproj|c:\\users\\karim\\documents\\projects\\firsrtcsharpcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13A1A599-8C4B-4021-8C56-B72A2723E006}|FirsrtCsharpCode.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +22,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Karim\\Documents\\Projects\\ExercisesPart2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ExercisesPart2\\Program.cs",
+              "ToolTip": "C:\\Users\\Karim\\Documents\\Projects\\ExercisesPart2\\Program.cs",
+              "RelativeToolTip": "..\\ExercisesPart2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:13:40.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Karim\\Documents\\Projects\\FirsrtCsharpCode\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
